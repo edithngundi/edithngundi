@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edithngundi
+- 👋 Hi, I’m Edith! You can call me @edithngundi
 - 👀 Interested in Game Development and all things Software Engineering
 - 🌱 Currently learning how to use Unity and code in C#
 - 💞️ Looking to collaborate on small 2D game projects
