@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m Edith!
 - 🧮 Mathematician, graduate from Minerva University (Computer Science, May 2024)
-- 🛠️ Interested in building things — software, tools, projects that work
+- 🛠️ Interested in building cool things — software, tools, machine learning models, games
 - 🌱 Currently exploring quantitative and machine learning models
 - 📫 How to reach me: edithngundi@gmail.com
 
