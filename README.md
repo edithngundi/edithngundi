@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edith!
+- 👋🏾 Hi, I’m Edith!
 - 🧮 Mathematician, graduate from Minerva University (Computer Science, May 2024)
 - 🛠️ Interested in building things — software, tools, projects that work
 - 🌱 Currently exploring quantitative and machine learning models
